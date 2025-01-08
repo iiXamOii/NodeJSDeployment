@@ -8,3 +8,15 @@ terraform/Environment/.terraform/providers/registry.terraform.io/hashicorp/aws/5
 terraform/VPC/.terraform.lock.hcl
 terraform/VPC/.terraform/providers/registry.terraform.io/hashicorp/aws/5.82.2/windows_amd64/LICENSE.txt
 terraform/VPC/.terraform/providers/registry.terraform.io/hashicorp/aws/5.82.2/windows_amd64/terraform-provider-aws_v5.82.2_x5.exe
+Elasticbeanstalk terraform/.terraform/.terraform.lock.hcl
+Elasticbeanstalk terraform/.terraform/terraform.tfstate
+Elasticbeanstalk terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/5.82.2/windows_amd64/terraform-provider-aws_v5.82.2_x5.exe
+Elasticbeanstalk terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/5.82.2/windows_amd64/LICENSE.txt
+Elasticbeanstalk terraform/Environment/.terraform.lock.hcl
+Elasticbeanstalk terraform/Environment/.terraform/providers/registry.terraform.io/hashicorp/aws/5.82.2/windows_amd64/LICENSE.txt
+Elasticbeanstalk terraform/Environment/.terraform/terraform.tfstate
+Elasticbeanstalk terraform/Environment/.terraform/providers/registry.terraform.io/hashicorp/aws/5.82.2/windows_amd64/terraform-provider-aws_v5.82.2_x5.exe
+Elasticbeanstalk terraform/VPC/.terraform.lock.hcl
+Elasticbeanstalk terraform/VPC/.terraform/providers/registry.terraform.io/hashicorp/aws/5.82.2/windows_amd64/LICENSE.txt
+Elasticbeanstalk terraform/VPC/.terraform/providers/registry.terraform.io/hashicorp/aws/5.82.2/windows_amd64/terraform-provider-aws_v5.82.2_x5.exe
+Elasticbeanstalk terraform/VPC/.terraform/terraform.tfstate
